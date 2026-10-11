@@ -1,0 +1,2 @@
+round,edge_id,malicious,attack_active,attack_applied,reputation_before,reputation_after,instant_weight,beta,sigma,price_to_clients,used_samples,weighted_contribution,revenue,client_payment,utility
+1,0,0,0,0,0.5,0.8344542514728509,1.0,0.33109149705429813,1.0,0.06331177133531078,3955,1977.5,250.39805563115414,125.19902781557707,125.19902781557707

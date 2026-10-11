@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(iconv -f utf-8 -t gb18030)",
+      "Bash(pip install:*)",
+      "Bash(cd:*)",
+      "Bash(findstr /C:\"byzantine\" /C:\"attack\")",
+      "Bash(Select-String -Pattern \"byzantine\")",
+      "Bash(find \"C:/Users/29296/Desktop/code/src/attacks\" -name \"*.pyc\" -delete)",
+      "Bash(find \"C:/Users/29296/Desktop/code/src/attacks\" -name \"__pycache__\" -type d -exec rm -rf {} +)",
+      "Bash(find \"C:/Users/29296/Desktop/code\" -name \"*.pyc\" -delete)",
+      "Bash(find \"C:/Users/29296/Desktop/code\" -name \"__pycache__\" -type d -exec rm -rf {} +)",
+      "WebFetch(domain:minimax-algeng-chat-tts.oss-cn-wulanchabu.aliyuncs.com)"
+    ]
+  }
+}

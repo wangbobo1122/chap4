@@ -1,0 +1,27 @@
+{
+  "variant": "proposed",
+  "seed": 30,
+  "client_attacker_ids": [
+    0
+  ],
+  "edge_attacker_ids": [],
+  "initial_accuracy": 0.11659192825112108,
+  "initial_loss": 2.3006498698161857,
+  "final_accuracy": 0.11973094170403588,
+  "best_accuracy": 0.11973094170403588,
+  "last_5_round_accuracy": 0.11905829596412557,
+  "pre_attack_accuracy": 0.11659192825112108,
+  "attack_min_accuracy": 0.11838565022421525,
+  "max_attack_accuracy_drop": 0.0,
+  "recovery_round": 2,
+  "recovery_delay": 1,
+  "target_accuracy": 0.8,
+  "time_to_target_round": null,
+  "cumulative_energy": 68.16853362384886,
+  "cumulative_client_payment": 152.79429507408736,
+  "cumulative_malicious_payment": 55.392334997511405,
+  "malicious_payment_share": 0.3625288167379064,
+  "post_attack_malicious_payment_share": 0.3625288167379064,
+  "detection_round": null,
+  "detection_delay": null
+}

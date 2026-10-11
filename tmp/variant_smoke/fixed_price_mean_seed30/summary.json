@@ -1,0 +1,28 @@
+{
+  "variant": "fixed_price",
+  "seed": 30,
+  "client_attacker_ids": [
+    0,
+    7
+  ],
+  "edge_attacker_ids": [],
+  "initial_accuracy": 0.11659192825112108,
+  "initial_loss": 2.300649863615164,
+  "final_accuracy": 0.11939461883408072,
+  "best_accuracy": 0.11939461883408072,
+  "last_5_round_accuracy": 0.11939461883408072,
+  "pre_attack_accuracy": 0.11659192825112108,
+  "attack_min_accuracy": 0.11939461883408072,
+  "max_attack_accuracy_drop": 0.0,
+  "recovery_round": null,
+  "recovery_delay": null,
+  "target_accuracy": 0.8,
+  "time_to_target_round": null,
+  "cumulative_energy": 9.344322792249809,
+  "cumulative_client_payment": 19.499999999999996,
+  "cumulative_malicious_payment": 3.9000000000000004,
+  "malicious_payment_share": 0.20000000000000007,
+  "post_attack_malicious_payment_share": 0.20000000000000007,
+  "detection_round": null,
+  "detection_delay": null
+}

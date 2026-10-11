@@ -1,0 +1,3 @@
+round,edge_id,malicious,attack_active,attack_applied,reputation_before,reputation_after,instant_weight,beta,sigma,truth_model_change,reputation_deviation,price_to_clients,used_samples,weighted_contribution,revenue,client_expenditure,utility
+1,0,0,0,0,0.5,0.5,0.5,0.9,0.0,,,0.0,16599,8299.5,0.0,0.0,0.0
+1,1,0,0,0,0.5,0.5,0.5,0.9,0.0,,,0.0,43401,21700.5,0.0,0.0,0.0
